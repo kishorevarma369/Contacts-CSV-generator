@@ -1,4 +1,4 @@
-# Money Distribution Helper
+# Contacts CSV generator
 
 Some times we get an excel sheet and we have lot of columns and we generated csv from it
 and the final file has format
